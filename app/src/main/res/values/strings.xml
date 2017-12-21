@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz App Tutorial</string>
+
+    <string name="e1">There are 8 planets in our solar system?</string>
+    <string name="e2">Over 2,000 computer viruses are released each month? </string>
+    <string name="e3">Portugal win World Cup 2014?</string>
+    <string name="e4">Football is the most played and most watched sport on earth?</string>
+    <string name="e5">4/2 = 2*0?</string>
+    <string name="e6">11% of people are left handed?</string>
+    <string name="e7">All insects have 4 legs?</string>
+    <string name="e8">If you add up all the numbers from 1 to 100 consecutively (1 + 2 + 3…) it totals 5050?</string>
+    <string name="e9">1 mile = 1.6 km?</string>
+    <string name="e10">Coca-Cola originally contained cocaine?</string>
+
+    <string name="n1">Mercury is the smallest planet? </string>
+    <string name="n2">In 2002 World Cup, Gianluigi Buffon became the first and only goalkeeper to win the Golden Ball?</string>
+    <string name="n3">Brazil win World Cup 1998?</string>
+    <string name="n4">More than 80% of the emails sent daily are spams?</string>
+    <string name="n5">4*9 = 6*6?</string>
+    <string name="n6">Hawaiian alphabet has 18 letters?</string>
+    <string name="n7">Brazil is named after a tree?</string>
+    <string name="n8">The oldest word in the English language is city?</string>
+    <string name="n9">There is no sound in space? </string>
+    <string name="n10">Paper originated from Japan?</string>
+
+    <string name="h1">Venus is the hottest planet?</string>
+    <string name="h2">The first football game that was broadcasted on Television was a friendly match between Arsenal and Liverpool in 1937?</string>
+    <string name="h3">France win World Cup 1982?</string>
+    <string name="h4">The original name of windows was Interface Manager?</string>
+    <string name="h5">(49/7)*2 = 32-(9*2)?</string>
+    <string name="h6">A bear has 42 teeth?</string>
+    <string name="h7">French fries are originally from Holand?</string>
+    <string name="h8">The Moons diameter is 4,476km?</string>
+    <string name="h9">Every year the sun loses 360 million tons?</string>
+    <string name="h10">August has the highest percentage of births?</string>
+</resources>

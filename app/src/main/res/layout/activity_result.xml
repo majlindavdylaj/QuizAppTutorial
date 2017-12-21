@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#547cb9"
+    tools:context="com.firetot.quizapptutorial.ResultActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:id="@+id/tv_user"
+        android:textSize="18sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Good luck next Time"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/currentPoints"
+        android:textSize="18sp"
+        android:textColor="#fff"
+        android:layout_centerInParent="true"
+        android:text="points"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BestScore"
+        android:textColor="#fff"
+        android:id="@+id/bss"
+        android:textSize="20sp"
+        android:layout_below="@+id/currentPoints"
+        android:layout_alignLeft="@+id/home"
+        android:layout_alignStart="@+id/home"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BestScore"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:id="@+id/bestScore"
+        android:layout_below="@+id/bss"
+        android:layout_alignLeft="@+id/bss"
+        android:layout_alignStart="@+id/bss" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="home"
+        android:background="#2f3058"
+        android:textColor="#fff"
+        android:id="@+id/home"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"/>
+
+</RelativeLayout>
